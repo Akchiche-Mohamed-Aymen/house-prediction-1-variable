@@ -1,7 +1,7 @@
 
 # House Price Prediction
 
-A simple project to regress the price of the house based only for the surface , i use 9.750$ for 
+A simple Desktop Application Using Python to regress the price of the house based only for the surface , i use 9.750$ for 
 the price of m8m in USA
 
 If you didn 't have python in your PC , watch this video : 
@@ -23,7 +23,7 @@ cd house-prediction-1-variable
 ```
 Then Run this in terminal
 ```bash
-pip install numpy
+pip install numpy PyQt5 pyqt-toast-notification
   
 ```
     
@@ -37,8 +37,8 @@ pip install numpy
 
 ## Tech Stack
 
-**Libraries:** Numpy
+**Libraries:** Numpy ,  PyQt5 , pyqt-toast-notification
 ## 🚀 Contact Me
 
-contact me in this Email :
+If you encounter you any problem , dont't hesitate to contact me in this Email :
   akchiche.mohamedaymem@gmail.com
