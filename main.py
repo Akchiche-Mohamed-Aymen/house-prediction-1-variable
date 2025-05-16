@@ -19,7 +19,7 @@ def getSurface():
     surface = text_input.toPlainText()
     try:
         price = regress_price(surface)
-        if float(surface) < 0 :
+        if float(surface) < 50 :
             notification('ERROR','Surface Not Valid' ,ToastPreset.ERROR ) 
             return  
         notification('SUCCESS',f'PRICE = {price} $' ,ToastPreset.SUCCESS )
