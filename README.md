@@ -8,10 +8,11 @@ the price of m8m in USA
 git clone https://github.com/Akchiche-Mohamed-Aymen/house-prediction-1-variable.git
 
 ```bash
-cd house-prediction-1-variable```
+cd house-prediction-1-variable
+bash```
 ```bash
-pip install numpy```
+pip install numpy
 # Features
-* Get an estimated price of a house based on surface input.
-* Simple and lightweight.
-* Powered by NumPy for fast numerical operations.
+. Get an estimated price of a house based on surface input.
+. Simple and lightweight.
+.  Powered by NumPy for fast numerical operations.
